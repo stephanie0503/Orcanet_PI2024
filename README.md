@@ -69,5 +69,33 @@ Os modelos de plano de ação, relatório parcial, relatório final e ficha téc
 - [Modelo da **Carta de apresentação do Projeto Integrador - Eixo Computação**](https://assets.univesp.br/Proj_Integrador/2024-2S/Modelo_Carta-Apresentacao_PI_Computacao.docx)
 
 
-    
+---
+## Referências da disciplina
+
+### Quinzena 1
+- ALVES, W. P. Projetos de sistemas web: conceitos, estruturas, criação de banco de dados e ferramentas de desenvolvimento. São Paulo: Érica, 2015.
+- IDEO. Design Thinking para Educadores. São Paulo: Instituto Educadigital, (2014). Disponível em: https://educadigital.org.br/dteducadores/. Acesso em: 28 jun. 2022.
+- IDEO. Human centered design: kit de ferramentas. 2. ed. [S.I.]: BMGF, 2017.
+- MACIEL, F. M. de B. Python e Django: desenvolvimento web moderno e ágil. Rio de Janeiro: Alta Books, 2020.
+- OLIVEIRA, C. L. V.; ZANETTI, H. A. P. JavaScript descomplicado: programação para web, IOT e dispositivos móveis. São Paulo: Érica, 2020.
+
+### Quinzena 2
+- OLIVEIRA, C. L. V.; ZANETTI, H. A. P. JavaScript descomplicado: programação para web, IOT e dispositivos móveis. São Paulo: Érica, 2020.
+
+### Quinzena 3
+- LINDNER, L. H. Ideação. In: LINDNER, L. H. Educação Inovadora. Subtítulo 3.4. Instituto Federal de Santa Catarina, 2018. Disponível em: https://moodle.ead.ifsc.edu.br/mod/book/view.php?id=74732&chapterid=13058. Acesso em: 14 dez. 2022.
+- OLIVEIRA, C. L. V.; ZANETTI, H. A. P. JavaScript descomplicado: programação para web, IOT e dispositivos móveis. São Paulo: Érica, 2020.
+
+### Quinzena 4
+- APRENDER na Prática: Projetos Integradores 2018/2019. Univesp, 2019. Disponível em: https://online.fliphtml5.com/wzkyy/hxmc/#p=1. Acesso em: 14 dez. 2022.
+- FIGUEIREDO, C. P. T. S. de; AZEVEDO, J. T. de. Padrões de acessibilidade web utilizado em aplicações ricas para inclusão de deficientes visuais: análise das possibilidades trazidas pela acessibilidade web. UOL, 202? [S.I., s. n.]. Disponível em: https://monografias.brasilescola.uol.com.br/computacao/padroes-de-acessibilidade-web-utilizado-em-aplicacoes-ricas-para-inclusao-de-deficientes-visuais.htm. Acesso em: 26 abr. 2022.
+
+### Quinzena 5
+- DELAMARO, M. E.; MALDONADO, J. C.; JINO, M. Introdução ao teste de software. 2. ed. Rio de Janeiro: Elsevier, 2016.
+
+### Quinzena 6
+- SICSÚ, A. L.; DANA, S. Estatística aplicada: análise exploratória de dados. São Paulo: Saraiva, 2012.
+
+### Quinzena 7
+- ALVES, W. P. Projetos de sistemas web: conceitos, estruturas, criação de banco de dados e ferramentas de desenvolvimento. São Paulo: Érica, 2015.
 
