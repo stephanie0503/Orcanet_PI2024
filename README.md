@@ -20,6 +20,7 @@ Projeto Integrador de Computação - 2024 2º Semestre
 - BRUNO YOSHIYO KODAMA WADAMORI
 
 **Orientador:** Dempsey de Lima Bragante 
+
 **Tema:** Desenvolver um software com framework que utilize banco de dados, inclua script web (Javascript), nuvem, uso de API, acessibilidade, controle de versão e testes. Opcionalmente incluir análise de dados
 
 
