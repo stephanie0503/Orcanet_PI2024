@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee289261-1064-4d1d-92a2-46354442b29f)# Orçanet - PI II 2024
+# Orçanet - PI II 2024
 Repositório para desenvolvimento das atividades do segundo semestre do Projeto Integrador de Computação da UniVesp - 2024 2º Semestre
 
 ## Grupo 04 - Turma 04
@@ -18,6 +18,8 @@ Repositório para desenvolvimento das atividades do segundo semestre do Projeto 
 **email:** 23228174@cursos.univesp.br
 
 **Tema:** Desenvolver um software com framework que utilize banco de dados, inclua script web (Javascript), nuvem, uso de API, acessibilidade, controle de versão e testes. Opcionalmente incluir análise de dados
+
+**Video:** [https://youtu.be/K049lNtVwFg](https://youtu.be/K049lNtVwFg)
 
 ## Sobre o projeto
 
