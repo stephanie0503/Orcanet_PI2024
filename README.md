@@ -28,7 +28,7 @@ Projeto Integrador de Computação - 2024 2º Semestre
 Acrescentar informações úteis por aqui.
 
 ## Cronograma
-![image](https://github.com/stephanie0503/PI_2024_2/blob/main/CalendarioPI2024S2.jpeg)
+![image](https://github.com/stephanie0503/PI_2024_2/blob/main/imagens/CalendarioPI2024S2.jpeg)
 
 
 ## Plano de Ação
