@@ -16,4 +16,4 @@ Foi criada uma máquina virtual para ser utilizada como nosso servidor da aplica
 
 ## Banco de Dados:
 
-Depois foram inseridos os produtos com base no arquivo .xls fornecido pelo cliente, e pode ser visualizado na pasta database do projeto, no arquivo [orcanet.sql](https://github.com/stephanie0503/PI_2024_2/blob/main/database\orcanet.sql)
+Depois foram inseridos os produtos com base no arquivo .xls fornecido pelo cliente, e pode ser visualizado na pasta database do projeto, no arquivo [orcanet.sql](https://github.com/stephanie0503/PI_2024_2/blob/main/database/orcanet.sql)
