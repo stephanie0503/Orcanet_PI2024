@@ -1,3 +1,5 @@
+![image](https://github.com/stephanie0503/Orcanet_PI2024/blob/main/imagens/banner_github.png)
+  
 # Orçanet - PI II 2024
 Repositório para desenvolvimento das atividades do segundo semestre do Projeto Integrador de Computação da UniVesp - 2024 2º Semestre
 
