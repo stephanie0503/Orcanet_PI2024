@@ -55,10 +55,3 @@ Exemplo de  registro no banco de dados:
 
 Para o front-end foi utilizado o framework Vue.js com estilo Material Design: 
 ![image](https://github.com/stephanie0503/Orcanet_PI2024/blob/main/imagens/Exemplo_Frontend.png)
-
----
-
-## Cronograma
-![image](https://github.com/stephanie0503/Orcanet_PI2024/blob/main/imagens/CalendarioPI2024S2.jpeg)
-
-
