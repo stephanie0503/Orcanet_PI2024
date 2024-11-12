@@ -1,37 +1,39 @@
-# dinamica-connecta
+# Orcanet Front-End
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Configuração recomendada
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Para customizar configurações
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Link [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Configuração do Projeto
+
+- Instalação de dependências do Projeto:
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+- Compilar e executar em modo de desenvolvimento (com recarregamento automático):
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+- Compilar e minificar para produção:
 
 ```sh
 npm run build
 ```
 
 
-## .htaccess: 
+- Configuração do arquivo .htaccess:  
 
-
+```html
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
@@ -40,3 +42,4 @@ npm run build
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /index.html [L]
 </IfModule>
+```
